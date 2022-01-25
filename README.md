@@ -1,2 +1,2 @@
 # Rewenable-Studio-A
-Full Bridge Converter
+Working Full Bridge Converter using MOSFETs and a IR2103 IC chip
